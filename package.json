@@ -1,0 +1,21 @@
+{
+  "name": "browser-offices-synk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^5.0.0-alpha.3",
+    "typescript": "^2.9.2"
+  },
+  "devDependencies": {
+    "@types/gulp": "^4.0.5",
+    "gulp-browserify": "^0.5.1",
+    "gulp-connect": "^5.5.0"
+  }
+}
